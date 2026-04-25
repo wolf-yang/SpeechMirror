@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_desc">用于在聊天输入框中粘贴语镜生成的话术，并可按映射表尝试点击发送按钮。不会上传你的聊天内容。</string>
+    <string name="accessibility_summary">语镜无障碍服务</string>
+    <string name="overlay_channel_name">语镜浮窗</string>
+</resources>

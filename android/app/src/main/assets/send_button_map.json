@@ -1,0 +1,8 @@
+{
+  "com.tencent.mm": {
+    "candidates": [
+      {"resourceId": "com.tencent.mm:id/b8k"},
+      {"text": "发送"}
+    ]
+  }
+}

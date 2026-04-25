@@ -1,0 +1,36 @@
+name: speechmirror
+description: 语镜（SpeechMirror）— 智能社交话术助手（本地优先、无自有后端）
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^2.5.1
+  go_router: ^14.6.2
+  sqflite: ^2.3.3+2
+  path: ^1.9.0
+  path_provider: ^2.1.4
+  flutter_secure_storage: ^9.2.2
+  dio: ^5.7.0
+  crypto: ^3.0.5
+  file_picker: ^8.1.4
+  url_launcher: ^6.3.2
+  shared_preferences: ^2.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/prompts/
+    - assets/android/
+    - assets/tools/

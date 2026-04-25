@@ -1,0 +1,8 @@
+{
+  "com.tencent.mm": {
+    "candidates": [
+      {"resourceId": "com.tencent.mm:id/b8k", "contentDescription": "发送"},
+      {"text": "发送", "className": "android.widget.Button"}
+    ]
+  }
+}
